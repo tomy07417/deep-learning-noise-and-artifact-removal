@@ -1,0 +1,10 @@
+/.venv
+/__pycache__
+/best_model.pth
+/mmnist-medium
+/modelo_1_mancha_regular.pth
+/modelo_2_manchas_irregulares.pth
+/modelo_3.pth
+/video_con_manchas_circulares_ejemplo.mp4
+/video_reconstruido.mp4
+/video_test.mp4
